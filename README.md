@@ -168,5 +168,9 @@ document.getElementById("result").innerHTML=
 }
 </script>
 
-</body>
+<body>
+<h1 style="color:red;">TEST</h1>
+
+<header>
+...
 </html>
