@@ -181,7 +181,7 @@ let shayari = [
 
 "🤣 Bas ek chhota sa prank tha.<br><br>🌟 Zindagi mein haste raho, kyunki hasi hi asli daulat hai.",
 
-"😂 Sorry Boss! Prank complete.<br><br>💪 Mehnat itni khamoshi se karo ki kamyabi shor macha de.",
+"<br><br>💪 Mehnat itni khamoshi se karo ki kamyabi shor macha de.",
 
 "😎 Sorry! Tum prank mein fas gaye.<br><br>🌹 Khush rehna hi sabse badi jeet hai, muskuraate raho hamesha. ❤️"
 
