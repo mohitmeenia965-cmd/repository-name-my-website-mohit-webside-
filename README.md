@@ -135,7 +135,7 @@ margin-top:40px;
 
 <section class="hero">
 
-<h1>Grow Your Instagram follower</h1>
+<h1>Grow Your Instagram followers</h1>
 
 <p>Analyze your profile, generate hashtags and improve your content.</p>
 
