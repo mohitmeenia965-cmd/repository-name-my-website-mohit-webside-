@@ -163,8 +163,36 @@ document.getElementById("result").innerHTML="Please enter a username.";
 return;
 }
 
-document.getElementById("result").innerHTML=
-"Analysis complete for <b>@"+user+"</b><br><br>Estimated Engagement: your 100 followers ✅";
+let shayari = [
+
+"😂 Sorry! Ye sirf ek prank tha.<br><br>🌹 Muskaan se khoobsurat koi gehna nahi hota, dil se hasne wala kabhi tanha nahi hota. ❤️",
+
+"😅 Sorry! Followers nahi badhe.<br><br>✨ Haste raho, muskurate raho, zindagi ka har pal jeete raho. 😊",
+
+"🤣 Oops! Prank successful.<br><br>🌸 Phool khilte hain baharon ke liye, muskaan zaroori hai jeene ke liye. 💐",
+
+"😂 Sorry yaar! Bas thoda hasaana tha.<br><br>🔥 Sapne woh hote hain jo mehnat se poore hote hain. 💯",
+
+"😜 Caught you! Ye sirf mazaak tha.<br><br>❤️ Dil bada rakho, followers to aate jaate rehte hain. 😄",
+
+"😂 Sorry! Fake followers nahi mile.<br><br>🌹 Asli pehchaan mehnat se banti hai, shortcut se nahi. ✨",
+
+"😅 Arre gussa mat hona!<br><br>😊 Muskurahat har dard ki sabse achhi dawa hai. ❤️",
+
+"🤣 Bas ek chhota sa prank tha.<br><br>🌟 Zindagi mein haste raho, kyunki hasi hi asli daulat hai.",
+
+"😂 Sorry Boss! Prank complete.<br><br>💪 Mehnat itni khamoshi se karo ki kamyabi shor macha de.",
+
+"😎 Sorry! Tum prank mein fas gaye.<br><br>🌹 Khush rehna hi sabse badi jeet hai, muskuraate raho hamesha. ❤️"
+
+];
+
+let random = Math.floor(Math.random() * shayari.length);
+
+document.getElementById("result").innerHTML =
+"😂 Sorry! Ye sirf ek prank tha.<br><br>" +
+"<b>@" + user + "</b><br><br>" +
+shayari[random];
 }
 </script>
 
