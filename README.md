@@ -197,7 +197,7 @@ shayari[random];
 </script>
 
 <body>
-<h1 style="color:red;">MOHIT FIRST FILE</h1>
+<h1 style="color:blue;">MOHIT FIRST FILE</h1>
 
 <header>
 ...
