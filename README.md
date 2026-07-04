@@ -5,24 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>InstaBoost</title>
 
-<script>
-function analyze(){
-
-let user=document.getElementById("username").value;
-
-if(user==""){
-document.getElementById("result").innerHTML="Please enter a username.";
-return;
-}
-
-document.getElementById("result").innerHTML =
-"Analysis complete for <b>@"+user+"</b><br><br>" +
-"Estimated Engagement: Good ✅<br><br>" +
-"✅ Demo simulation completed successfully.";
-
-}
-</script>
-
+<style>
 *{
 margin:0;
 padding:0;
@@ -135,7 +118,7 @@ margin-top:40px;
 
 <section class="hero">
 
-<h1>Grow Your Instagram followers</h1>
+<h1>Grow Your Instagram Smarter</h1>
 
 <p>Analyze your profile, generate hashtags and improve your content.</p>
 
