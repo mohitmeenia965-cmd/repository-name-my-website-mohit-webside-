@@ -164,12 +164,12 @@ return;
 }
 
 document.getElementById("result").innerHTML=
-"Analysis complete for <b>@"+user+"</b><br><br>Estimated Engagement: your 100 ✅";
+"Analysis complete for <b>@"+user+"</b><br><br>Estimated Engagement: your 100 followers ✅";
 }
 </script>
 
 <body>
-<h1 style="color:red;">TEST</h1>
+<h1 style="color:red;"/h1>
 
 <header>
 ...
